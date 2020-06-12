@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="354px" height="132px" viewBox="0 0 354 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>合并形状</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M350,63.6899622 L350,124 C350,126.209139 348.209139,128 346,128 L4,128 C1.790861,128 2.705415e-16,126.209139 0,124 L0,63.2182779 C4.14596581,61.0241283 7,56.4266333 7,51.1103065 C7,45.7939797 4.14596581,41.1964847 1.11022302e-14,39.0023351 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L346,0 C348.209139,-4.05812251e-16 350,1.790861 350,4 L350,38.5306508 C345.31994,40.4787608 342,45.376445 342,51.1103065 C342,56.844168 345.31994,61.7418522 350,63.6899622 Z" id="path-1"></path>
+        <filter x="-1.0%" y="-2.0%" width="102.0%" height="105.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.154070426 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="卡片" transform="translate(2.000000, 1.000000)">
+            <g id="合并形状">
+                <g>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#fff" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
